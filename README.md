@@ -24,3 +24,14 @@ Many times I've found myself struggling while explaining specific engineering to
 
 ![HTTP2 with RancherOS and Docker](https://raw.githubusercontent.com/jjperezaguinaga/technical-diagrams/master/diagrams/RancherOS_HTTP2.jpg)
 
+# [Inside ACH payments with Stripe and Plaid](https://fin.plaid.com/articles/inside-ach-payments-with-stripe-and-plaid)
+
+**Latest update 02.06.2016**
+
+![ACH Payments with Plaid and Stripe pt.1](https://raw.githubusercontent.com/jjperezaguinaga/technical-diagrams/master/diagrams/ach-stripe-plaid-1.png)
+
+![ACH Payments with Plaid and Stripe pt.2](https://raw.githubusercontent.com/jjperezaguinaga/technical-diagrams/master/diagrams/ach-stripe-plaid-2.png)
+
+![ACH Payments with Plaid and Stripe pt.3](https://raw.githubusercontent.com/jjperezaguinaga/technical-diagrams/master/diagrams/ach-stripe-plaid-3.png)
+
+![ACH Payments with Plaid and Stripe pt.4](https://raw.githubusercontent.com/jjperezaguinaga/technical-diagrams/master/diagrams/ach-stripe-plaid-4.png)
